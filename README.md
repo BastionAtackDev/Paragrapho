@@ -1,5 +1,5 @@
 # About Paragrapho📝
-Paragrapho is a text editor made in Python using the  tkinter.
+Paragrapho is a open-surce text editor.
 
 ## Downloads and other stuff
 ![Downloads](https://img.shields.io/github/downloads/BastionAtackDev/Paragrapho/total?style=flat-square)
