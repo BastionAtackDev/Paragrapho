@@ -1,6 +1,5 @@
-from tkinter import *
+from tkinter import * #Tk, Button, Text, PhotoImage
 from tkinter import filedialog
-import keyboard
 
 #from sys import *
 
@@ -21,7 +20,7 @@ def getFile():
 root = Tk()
 root.geometry('400x400')
 root.title("Paragrapho")
-img=PhotoImage(file="D:\\Sebastian\\Programare\\Cpp,Python,C#\Python\\TextEditor-main\\TextEditor-main\\Paragrapho.png")
+img=PhotoImage(file="./ParagrafIcon.png")
 root.iconphoto(False,img)
 save = Button(root,text='Save',command=submit)
 save.place(x=0,y=0)
