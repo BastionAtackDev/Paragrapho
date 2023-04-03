@@ -1,5 +1,5 @@
 # About Paragrapho📝
-Paragrapho is a open-surce text editor.
+Paragrapho is a simple, open-surce text editor written in Python.
 
 ## Images
 ![img](Paragraphoimage.png)
