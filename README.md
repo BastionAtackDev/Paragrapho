@@ -8,7 +8,7 @@ Paragrapho is a simple, open-surce text editor written in Python.
 ![Size](https://img.shields.io/github/languages/code-size/BastionAtackDev/Paragrapho?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/BastionAtackDev/Paragrapho?style=flat-square)
 ## Licensed under the GPLv3 license
-See the [License](LICENSE)
+See the [License](LICENSE.md)
 
 
 ###### made in 🇹🇩 with ❤️
